@@ -1,9 +1,15 @@
 {
   "expo": {
-    "slug": "ReactNativeApp",
+    "slug": "exercise-log",
     "name": "ReactNativeApp",
     "sdkVersion": "48.0.0",
-    "entryPoint": ".vscode/exponentIndex.js"
+    "entryPoint": ".vscode/exponentIndex.js",
+    "extra": {
+      "eas": {
+        "projectId": "bfe100ac-fda5-4ff9-b325-cbf1e5820142"
+      }
+    },
+    "owner": "cluffa"
   },
   "name": "ReactNativeApp"
 }
